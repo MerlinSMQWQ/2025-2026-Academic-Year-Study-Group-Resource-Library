@@ -10,3 +10,8 @@
 百度网盘链接：*https://pan.baidu.com/s/1rdL8_poMjaTEdbSCKtXfeQ?pwd=mab4*
 
 夸克网盘链接：*https://pan.quark.cn/s/c4a499c08215?pwd=Mp3j*
+
+# AI Engineering Building Applications with Foundation Models (Chip Huyen)
+百度网盘链接：*https://pan.baidu.com/s/1aPFNT7Zme8nz0qOB7_Dizw?pwd=q81y*
+
+夸克网盘链接：*https://pan.quark.cn/s/159797c06ad5?pwd=ESTF*
