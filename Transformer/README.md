@@ -6,7 +6,7 @@
 
 ### 1. `论文与PPT`
 - **论文1**: [Attention Is All You Need](论文与PPT/NIPS-2017-attention-is-all-you-need-Paper.pdf) (Transformer 原始论文)
-- **论文2**: [Annotated Transformer.pdf](论文与PPT/Annotated Transformer.pdf) (带注释的Transformer )
+- **论文2**: [Annotated Transformer](论文与PPT/Annotated-Transformer.pdf) (带注释的Transformer )
 - **PPT**: [Transformer 技术讲解](论文与PPT/Transformer讲解.pptx) (讲解PPT)
 
 ### 2. `Transformer_demo`
@@ -24,7 +24,7 @@
 
 ### 技术细节
 - **依赖**：PyTorch >= 2.0，无需额外安装其他库。
-- **数据集**：使用极简的玩具数据集（为了快速演示，数据规模很小）。
+- **数据集**：使用极简的数据集（为了快速演示，数据规模很小）。
 - **模型设计**：包含词嵌入、位置编码、多头注意力、前馈网络等 Transformer 核心模块。
 - **训练与推理**：实现了完整的训练循环和贪心解码推理函数。
 
