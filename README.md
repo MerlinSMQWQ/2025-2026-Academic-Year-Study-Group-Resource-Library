@@ -24,35 +24,46 @@
 
 ```
 2025-2026-Academic-Year-Study-Group-Resource-Library/
-├── README.md
-├── GitHub操作指南/
+├── ComputerScience
+│   └── 计算机科学相关书籍.md
+├── GitHub操作指南
 │   └── GitHub PR操作简明指南.pdf
-├── LLM与NLP/
-│   └── LLM与NLP相关书籍.md
-├── RAG/
-│   ├── 论文/
-│   │   └── RAG.md
-│   └── rag_demo_20251026/
-│       ├── rag_demo.py
-│       ├── RAG知识讲解_20251026.pdf
+├── LLM与NLP
+│   ├── LLM与NLP相关书籍.md
+│   └── Transformer
 │       ├── README.md
-│       ├── requirements.txt
-│       └── data/
-├── RL/
-│   ├── books/
-│   │   └── RL_books.md
-│   └── value-based/
-│       ├── env_quick_create.py
-│       ├── pyproject.toml
-│       ├── README.md
-│       ├── srcCliffWalking_QLearning.py
-│       └── srcCliffWalking_sarsa.py
-└── Transformer/
-    ├── README.md
-    ├── 论文与PPT/
-    │   └── [相关学术资料]
-    └── Transformer_demo/
-        └── translation.ipynb
+│       ├── Transformer_demo
+│       │   └── translation.ipynb
+│       └── 论文与PPT
+│           ├── Annotated Transformer.pdf
+│           ├── NIPS-2017-attention-is-all-you-need-Paper.pdf
+│           └── Transformer讲解.pptx
+├── RAG
+│   ├── rag_demo_20251026
+│   │   ├── RAG知识讲解_20251026.pdf
+│   │   ├── README.md
+│   │   ├── data
+│   │   │   └── GitHubPR操作简明指南.pdf
+│   │   ├── log
+│   │   │   └── rag_demo_20251026_124139.log
+│   │   ├── rag_demo.py
+│   │   ├── requirements.txt
+│   │   └── vector_database
+│   │       ├── index.faiss
+│   │       └── index.pkl
+│   └── 论文
+│       └── RAG.md
+├── README.md
+└── RL
+    ├── books
+    │   └── RL_books.md
+    └── value-based
+        ├── README.md
+        ├── env_quick_create.py
+        ├── pyproject.toml
+        ├── srcCliffWalking_QLearning.py
+        ├── srcCliffWalking_sarsa.py
+        └── uv.lock
 ```
 
 ## 内容概览
