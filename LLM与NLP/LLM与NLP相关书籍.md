@@ -15,3 +15,13 @@
 百度网盘链接：*https://pan.baidu.com/s/1aPFNT7Zme8nz0qOB7_Dizw?pwd=q81y*
 
 夸克网盘链接：*https://pan.quark.cn/s/159797c06ad5?pwd=ESTF*
+
+# 智能体相关资料
+百度网盘链接：*https://pan.baidu.com/s/1kw73HPY79f44mTkOlNHTtg?pwd=54xm*
+
+夸克网盘链接：*https://pan.quark.cn/s/a4f7ca4c9d3c?pwd=FU9y*
+
+# transformer相关资料
+百度网盘链接：*https://pan.baidu.com/s/1wejWFdzr1CtnJ9CCXxI1Aw?pwd=wxy1*
+
+夸克网盘链接：*https://pan.quark.cn/s/d6af555f6e4d?pwd=67ej*
